@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "live-server src",
+    "serve": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/EGalanin/hw_js_import_export/issues"
   },
-  "homepage": "https://github.com/EGalanin/hw_js_import_export#readme"
+  "homepage": "https://github.com/EGalanin/hw_js_import_export#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  }
 }
