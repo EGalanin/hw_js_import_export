@@ -1,0 +1,19 @@
+{
+  "name": "hw_js_import_export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EGalanin/hw_js_import_export.git"
+  },
+  "author": "GalaninEvgeniy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EGalanin/hw_js_import_export/issues"
+  },
+  "homepage": "https://github.com/EGalanin/hw_js_import_export#readme"
+}
